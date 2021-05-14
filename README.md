@@ -28,5 +28,6 @@ Lastly, demographic data on flower buyers pulled through Numerator and demograph
 Leesburg was chosen as the recommendation for a few reasons. First, there are less flower shops and those shops are spread far apart. While
 the shops in Leesburg are generally rated highly, if one were to open shop in the area, it would be unlikely that your competition would be so close as to encroach. Next, Leesburg has a slightly larger Asian population. While it is only slightly larger, it remains significant because that is the biggest indicator of whether one is likely to purchase flowers. Lastly, the second biggest indicator is income. The median income is extremely high in Leesburg making it the obvious choice.
 
-https://github.com/VaneezaAhmad
-https://github.com/ntsegaw
+[Vaneeza Ahmad](https://github.com/VaneezaAhmad)
+
+[Natnael Tsegaw](https://github.com/ntsegaw)
